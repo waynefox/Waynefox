@@ -3,9 +3,8 @@
 
 <br />
 
-## 💼 <a href="https://waynefoxdev.com" target="_blank"> Waynefoxdev</a>
+## 💼 <a href="https://waynefox.co/" target="_blank"> Wayne Fox Portfolio</a>
 
-<img src="./github-head.png" alt="wayne fox intro image" />
 
 <br/>
  
@@ -65,8 +64,6 @@ I started my development path at 41 and have been working hard to get a developm
 ## 🔗 Social Links
 
 <a href="https://www.waynefox.co">Wayne Fox Blog & Portfolio</a><br/>
-<a href="https://www.twitter.com/waynefox_">Twitter Profile</a><br/>
-<a href="https://www.linkedin.com/in/waynefoxdev/">Linkedin Profile</a><br/>
 <a href="https://www.github.com/waynefox/">Github Profile</a>
 
 ---
