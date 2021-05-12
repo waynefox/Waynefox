@@ -12,15 +12,8 @@ I'm Wayne Fox <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 
 I love JavaScript and enjoy working with React JS. i wake every day with the intent to learn something new and push my knowledge to a new degree.
 
-<a href="https://twitter.com/waynefox_">
-  <img align="left" alt="Wayne Fox | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://waynefox.co">
   <img align="left" alt="Wayne Fox | Blog & Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
-</a>
-<a href="https://www.linkedin.com/in/waynefoxdev/">
-  <img align="left" alt="Wayne Fox Dev LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 </a>
 <a href="https://www.github.com/waynefox">
   <img align="left" alt="Github Wayne Fox Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -57,7 +50,7 @@ There are so many resources online to learn what ever you want, my interests are
 
 ## 🗓 My Work Experience - My life of work
 
-I started my development path at 41 and have been working hard to get a development job. before that though i owned my own taxi business in the north east of england, self employed for over 12 years
+I started my development path at 42 and have been working hard to get a development job. before that though i owned my own taxi business in the north east of england, self employed for over 12 years
 
 ---
 
